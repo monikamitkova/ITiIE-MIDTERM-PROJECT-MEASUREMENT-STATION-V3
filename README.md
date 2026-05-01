@@ -26,4 +26,4 @@ No install step is required.
 
 ## Notes
 
-The project uses plain HTML, CSS, and JavaScript. Bootstrap and Font Awesome are loaded from CDNs.
+The project uses plain HTML, CSS, and JavaScript. Bootstrap.
