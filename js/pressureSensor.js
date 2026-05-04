@@ -1,5 +1,3 @@
-
-
 class PressureSensorGauge {
     constructor(canvasId, minPressure = 0, maxPressure = 200) {
         this.canvas = document.getElementById(canvasId);
